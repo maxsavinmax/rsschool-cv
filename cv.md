@@ -26,13 +26,16 @@ console.log(multiply);
 ```
 ## Work experience:
 * No programming experience
-* Printing house manager (2013 - 2022 )
+* Print house manager (2013 - 2022)
 * Sole enrtepreneur (Sinse 2021)
 
 ## Education:
 
 * The Institute of Parliamentarism and Entrepreneurship (specialist in political sciences - lawyer)
-* [JavaScript Manual (in process)](https://learn.javascript.ru/js) 
-* [RS Schools Course «Js/Fe Pre-School 2022Q2» (in process)](https://rs.school/js-stage0/)
+* [JavaScript Manual (in progress)](https://learn.javascript.ru/js) 
+* [RS Schools Course «Js/Fe Pre-School 2022Q2» (in progress)](https://rs.school/js-stage0/)
 
 ## Languages:
+
+* Russian - native speaker
+* English - A1
